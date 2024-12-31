@@ -1,7 +1,6 @@
 
 <h3 align="center">Web Developer :robot:</h3>
 <h3 align="center">Automation Engineer :space_invader: </h3>
-<h3 align="center">Teaching Assistant :woman_teacher:</h3>
 <h3 align="center">Renaissance Woman :fairy_woman:</h3>
 <br>
  😄  &nbsp;Pronouns: she/her<br>
