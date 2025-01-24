@@ -5,7 +5,7 @@
 <br>
  😄  &nbsp;Pronouns: she/her<br>
  🔭  &nbsp;I'm currently working for a global tech consultancy and doing upskill training<br>
- 🌱  &nbsp;I'm currently improving my React skills and learning how to create Angular applications.<br>
+ 🌱  &nbsp;I'm currently preparing for my AWS Cloud Practitioner certification.<br>
  🥅  &nbsp;Goals: Learn how to develop mobile applications and create a Discord bot using Python<br>
  ⚡ Fun fact: I love reading Fantasy novels and Webtoon comics.
  
