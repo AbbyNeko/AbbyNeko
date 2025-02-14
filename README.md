@@ -4,7 +4,7 @@
 <h3 align="center">Renaissance Woman :fairy_woman:</h3>
 <br>
  😄  &nbsp;Pronouns: she/her<br>
- 🔭  &nbsp;I'm currently working for a global tech consultancy and doing upskill training<br>
+ 🔭  &nbsp;I'm currently developing APIs for a leading financial services company<br>
  🌱  &nbsp;I'm currently preparing for my AWS Cloud Practitioner certification.<br>
  🥅  &nbsp;Goals: Learn how to develop mobile applications and create a Discord bot using Python<br>
  ⚡ Fun fact: I love reading Fantasy novels and Webtoon comics.
