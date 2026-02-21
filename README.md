@@ -32,7 +32,7 @@
 <br>
 <br>
  
- <a href="https://github.com/anuraghazra/github-readme-stats" style="margin:auto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abbyneko&show_icons=true&theme=radical&hide_border=true"/>
+ <a href="https://github.com/abbyneko/github-readme-stats" style="margin:auto">
+  <img align="center" src="[![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=abbyneko)](https://github.com/abbyneko/github-readme-stats)"/>
 </a>
 
